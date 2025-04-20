@@ -38,12 +38,6 @@ A feature-rich **To-Do List desktop application** built using **Java (Swing)** i
 This project was developed as part of our college coursework by a team of three girls passionate about software development and productivity tools.  
 Our goal was to create a **simple, elegant, and practical tool** for students to organize their tasks and study time effectively.
 
----
-
-## 📷 Screenshots
-
-
-
 
 ---
 
